@@ -7,3 +7,11 @@ Documentation from your civilian employer confirming that you will return to wor
 Proof of military income to show the lender you have some income coming in during the gap.
 
 Consider having a strong savings buffer to cover any gap in payments while you're away.
+
+AWS Site Terms
+Last Updated: June 4, 2025
+
+Welcome to the Amazon Web Services site (the “AWS Site”). Amazon Web Services, Inc. and/or its affiliates (“AWS”) provides the AWS Site to you subject to the following terms of use (“Site Terms”). By visiting the AWS Site, you accept the Site Terms. Please read them carefully. In addition, when you use any current or future AWS services, content or other materials, you also will be subject to the AWS Customer Agreement or other agreement governing your use of our services (the “Agreement”).
+
+PRIVACY
+Please review our Privacy Notice, which also governs your visit to the AWS Site, to understand our practices.
